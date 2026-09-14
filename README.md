@@ -10,12 +10,12 @@ Market and liquidity infrastructure for Stock Tokens on Robinhood Chain.
 
 <br />
 
-<a href="https://commingsoon">
-  <img src="https://img.shields.io/badge/Website-stockvaults.online-B8F000?style=for-the-badge&labelColor=111111" alt="Website" />
-</a>
+<img src="https://img.shields.io/badge/Website-Coming_Soon-B8F000?style=for-the-badge&labelColor=111111" alt="Website Coming Soon" />
+
 <a href="https://x.com/stockvaultsrh">
   <img src="https://img.shields.io/badge/X-@stockvaultsrh-111111?style=for-the-badge" alt="X" />
 </a>
+
 <a href="https://t.me/stockvaultsrh">
   <img src="https://img.shields.io/badge/Telegram-Community-24A1DE?style=for-the-badge" alt="Telegram" />
 </a>
